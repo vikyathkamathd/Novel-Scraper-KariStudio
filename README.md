@@ -14,7 +14,7 @@ A Python script that scrapes chapters of novels/books from KariStudio website us
 ## Installation 
 - Clone the repository.
 - Run the script using command:
-     python scraper.py
+    ```python scraper.py```
 - Enter book name.
 - Enter URL of the chapter you want to start from.
 - Done. You'll have the .txt file with the given book name.
